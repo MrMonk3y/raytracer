@@ -1,5 +1,3 @@
-### 
 
+# Java Raytracer
 A Java Raytracer application. Not yet finished...
-
-###
